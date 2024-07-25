@@ -24,3 +24,14 @@ The data set for one class was increased so that the number of observations in e
 
 Conclusions:
 The model with smaller kernels performed better. Its calculation time was lower, and it was mathematically simpler. Both models performed better than the reference model. The best model achieved 82% accuracy and performed best at classifying tuberculosis, but had the worst performance classifying viral pneumonia. 
+
+TO DO:
+To improve the model evaluation, I can try the following strategies:
+
+Experiment with Different Hyperparameters: I can adjust hyperparameters such as the number of layers and the size of each layer in the model. This can help me find a more effective architecture.
+
+Increase Model Complexity: I can consider using more layers or increasing the size of layers to capture more intricate patterns in the data.
+
+Expand the Dataset: I can populate the model with more data. Increasing the amount and diversity of training data can help the model generalize better and improve its performance.
+
+
