@@ -15,7 +15,9 @@ Source: https://www.kaggle.com/datasets/omkarmanohardalvi/lungs-disease-dataset4
 
 
 Evaluation Method: F1-score
+
 Hyperparameter Tuning: Manual tuning (filter size)
+
 Regularization: Early Stopping, Dropout layer
 
 The data set for one class was increased so that the number of observations in each class is equal to 1000.
