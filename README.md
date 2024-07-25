@@ -5,7 +5,7 @@ The aim of the project is to develop a system based on neural networks that can 
 
 1. Preliminary image processing.
 2. Selection of an appropriate neural network architecture.
-  Reference model: simple neural network, three dense layers
+  Reference model: simple neural network, three dense layers,
   Target model: convolutional network
 3. Training the chosen neural network and evaluating the model's performance.
 4. Results and conclusions.
